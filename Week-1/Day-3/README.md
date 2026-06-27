@@ -60,13 +60,41 @@ This is how real engineers think!
 // Array: [3, -4,  0, -1, -2]  ← after marking
 //                              index 2 is positive = 2 is missing!
 
-Why I didn't solve it yet:
-I found a real edge case that needed more thought:
+// Why I didn't solve it yet:
+// I found a real edge case that needed more thought:
 
-Problem: What if a number is ALREADY negative in the array?
+// Problem: What if a number is ALREADY negative in the array?
 
-Example: [-15, 2, 3, ...]
-- Index 0 already has -15 (original negative value)
-- But I did NOT mark it negative
-- During scanning: how do I know if negative means
-  "I marked this" OR "it was already negative"?
+// Example: [-15, 2, 3, ...]
+// - Index 0 already has -15 (original negative value)
+// - But I did NOT mark it negative
+// - During scanning: how do I know if negative means
+//  "I marked this" OR "it was already negative"?
+
+
+This is a valid edge case!
+The real solution handles this by:
+
+First removing all negatives and zeros (they can't be answers)
+Then applying the marking technique
+Will solve LeetCode 41 (First Missing Positive) after
+reflecting more on this edge case.
+
+Critical Thinking Moment 🧠
+Most people learn an algorithm and immediately try to code it.
+Today I learned to pause and question:
+
+What are the edge cases?
+What assumptions does this algorithm make?
+What breaks this algorithm?
+This kind of thinking is what separates good developers
+from great ones!
+
+Key Learnings
+XOR is safer than math formula for large numbers
+Dutch National Flag solves 3-value sorting in one pass
+Index Marking = use array as HashMap (no extra space!)
+Always ask: what are the edge cases?
+It is okay to learn an algorithm without solving it immediately
+Total Problems Solved So Far: 12
+
