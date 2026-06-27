@@ -28,19 +28,6 @@
 **Frontend:** JavaScript, React  
 **AI/ML:** OpenAI API, LangChain, Vector Databases  
 
-## 📂 Repository Structure
-
-DSA-Journey/
-├── Week-1/ ✅ COMPLETE (19 problems)
-│ ├── Day-1/ (3 problems - Two Pointer)
-│ ├── Day-2/ (8 problems - Kadane's, Boyer-Moore, XOR)
-│ ├── Day-3/ (2 problems - Dutch National Flag, Optimization)
-│ ├── Day-4/ (3 problems - Prefix Sum + HashMap)
-│ └── Day-5/ (3 problems - Two Pointer Lock-In)
-├── Week-2/ (Coming soon)
-└── Projects/ (Coming soon - Starting with VS Code clone)
-
-
 ## 🔥 Week 1 Complete Summary
 
 ### By The Numbers
