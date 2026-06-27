@@ -1,51 +1,72 @@
-# Day 3 - Optimization & Dutch National Flag
+# Day 3 - Optimization, XOR & Index Marking Algorithm
 
 **Date:** June 25, 2025  
-**Focus:** Optimizing previous solutions, XOR technique, Array as HashMap  
+**Focus:** Optimizing previous solutions, learning Index Marking technique  
 
 ## What I Did Today
 
-Today was about **going deeper, not wider**.  
-Instead of rushing to new problems, I revisited Day 2 solutions  
-and found better approaches. This is how real engineers think!
+Today was about **going deeper, not wider.**  
+Revisited previous solutions, found better approaches,  
+and learned a completely new algorithm concept.  
+This is how real engineers think!
 
-## Problems Solved / Reviewed
+## Problems Solved
 
-### 🔄 Re-solved: Missing Number (Optimized!)
+### 🔄 Re-solved with Optimization: Missing Number
 **LeetCode 268** - [Link](https://leetcode.com/problems/missing-number/)
-- **Day 2 approach:** Math formula n*(n+1)/2
-  - Works but can overflow with very large numbers
-- **Day 3 approach:** XOR method ← BETTER!
-  - No overflow risk
-  - Time: O(n), Space: O(1)
-- **Key insight:** XOR same number twice = 0
-  - XOR all indices AND all values
-  - The missing number remains!
+
+| | Day 2 | Day 3 |
+|--|-------|-------|
+| Approach | Math: n*(n+1)/2 | XOR method |
+| Risk | Can overflow large numbers | No overflow |
+| Speed | O(n) | O(n) |
+| Space | O(1) | O(1) |
+
+**Why XOR is better:**
+- Math formula can overflow with very large numbers
+- XOR works at bit level, no overflow risk
+- XOR all indices AND all values = missing number remains
 
 ### 🔄 Reviewed: Single Number
 **LeetCode 136** - [Link](https://leetcode.com/problems/single-number/)
 - Reviewed to strengthen XOR understanding
-- This was the foundation for optimizing Missing Number
-- Pattern: a XOR a = 0, a XOR 0 = a
+- Foundation for solving Missing Number with XOR
+- Core rule: a XOR a = 0, a XOR 0 = a
 
-### ✅ New: Sort Colors
+### ✅ New Problem: Sort Colors
 **LeetCode 75** - [Link](https://leetcode.com/problems/sort-colors/)
 - Pattern: Dutch National Flag Algorithm
 - Difficulty: Medium
 - Three pointers: low, mid, high
-- Sort array of 0s, 1s, 2s in ONE pass
+- Sorts array of 0s, 1s, 2s in ONE single pass
 - Time: O(n), Space: O(1)
 
-## 📚 New Concept Learned: Array as HashMap
+## 📚 New Algorithm Learned: Index Marking (Negative Marking)
 
-**What is it?**  
-Using array indices as keys to count/track elements.  
-Instead of creating a HashMap, use the array index directly!
+**Concept:** Use the array itself as a HashMap by marking indices negative
 
-**Example:**
+**How it works:**
 ```java
-// Count frequency of numbers 0-9
-int[] freq = new int[10];
-for (int num : nums) {
-    freq[num]++;  // index = key, value = count
-}
+// Array: [3, 4, 0, 1, 2]
+// Goal: Find first missing positive number
+
+// Step 1: When you SEE number 1
+//         Go to INDEX 1 and mark it negative
+// Step 2: When you SEE number 2  
+//         Go to INDEX 2 and mark it negative
+// Step 3: Scan array - first POSITIVE index = missing number!
+
+// Index:  0   1   2   3   4
+// Array: [3, -4,  0, -1, -2]  ← after marking
+//                              index 2 is positive = 2 is missing!
+
+Why I didn't solve it yet:
+I found a real edge case that needed more thought:
+
+Problem: What if a number is ALREADY negative in the array?
+
+Example: [-15, 2, 3, ...]
+- Index 0 already has -15 (original negative value)
+- But I did NOT mark it negative
+- During scanning: how do I know if negative means
+  "I marked this" OR "it was already negative"?
