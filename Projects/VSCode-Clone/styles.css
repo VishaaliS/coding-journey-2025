@@ -1,0 +1,139 @@
+.body{
+    font-family: "Segoe UI", sans-serif;
+    background-color: #0d1014;
+    line-height: 1.42857143;
+    }
+.TB 
+{
+display : flex;
+justify-content: space-between;
+padding-left: 10px;
+padding-top: 12px;
+padding-bottom: 10px;
+background-color: #0d1014;
+border-color: rgb(232, 238, 249);
+border: 1px;
+}
+
+.TB a{
+    color: rgb(226,226,226) ;
+    text-decoration: none;
+     font-family: "Segoe UI", sans-serif;
+     font-size: 16px;
+     
+}
+
+.left{
+    font-family: "Segoe UI", sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    color: rgb(6, 7, 45);
+   
+
+}
+.right button {
+ height: auto;
+ width: auto;
+ background-color: inherit;
+ border-radius: 5px;
+ border: none;
+background: inherit;
+color: rgb(232, 238, 249);
+border: none;
+padding: 12px 20px;
+transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+    cursor: pointer;
+}
+.TBelementsl{
+padding-left: 33px; 
+
+
+}
+.TBelementsr{
+padding-left: 2px; 
+}
+.TBelementd{
+    width: 35px;
+    margin-right : 10px;
+    
+    background-color: rgb(51, 118, 206);
+}
+.banner{
+    margin-top: 1px;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(12, 20, 34);
+    font-size:14px;
+     
+}
+.banner a{
+    color: rgb(10, 173, 237);
+    font-family: "Segoe UI", sans-serif
+}
+.heading {
+    font-size: 65px;
+    display : flex;
+    justify-content: center;
+    color: rgb(232, 238, 249);
+    margin-top: 10px;
+    font-style: bold;
+}
+
+.subheading {
+    font-size: 30px;
+    display : flex;
+    justify-content: center;
+    color: rgb(232, 238, 249);
+    margin-top: 10px;
+}
+
+.frame1 {
+   
+    background-color: rgb(29, 32, 36);
+    height: 150px;
+    width: 370px;
+    border-radius: 10px;
+    flex-direction: column;
+}
+
+.frame1button {
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+.frame1button button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 50px;
+    width: 340px;
+    padding-bottom: 15px;
+    background-color: rgb(232, 238, 249);
+}
+
+.frame1links {
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    font-size: 14px;
+    color: rgb(232, 238, 249);
+    font-size: 10px;
+}
+
+.frame1links a {
+    color: rgb(232, 238, 249);
+}
