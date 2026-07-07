@@ -1,11 +1,12 @@
-# Day 15 - Linked List Foundations
+# Day 15 - Linked List Foundations & Fast/Slow Pointer Pattern
 
 **Date:** July 7, 2025  
-**Focus:** Linked list fundamentals refresher
+**Focus:** Linked list fundamentals + fast/slow pointer technique
 
-## Today's Approach: Concepts First, Problems Later
+## Today's Approach: Learn, Then Apply
 
-Not a LeetCode grinding day. A learning day.
+Morning: Learned linked list fundamentals  
+Afternoon: Applied the knowledge - solved 3 problems
 
 ## What I Learned
 
@@ -38,23 +39,61 @@ Not a LeetCode grinding day. A learning day.
 
 ---
 
-## Problem Solved (Streak Maintenance)
+## Problems Solved: 3
 
-### Reverse Linked List
+### 1. Reverse Linked List
 **LeetCode 206** - [Link](https://leetcode.com/problems/reverse-linked-list/)
 - Pattern: Pointer manipulation
 - Difficulty: Easy
 - Time: ~20 minutes
 - Approach: Three pointers (prev, current, next), reverse links iteratively
 
+### 2. Middle of the Linked List
+**LeetCode 876** - [Link](https://leetcode.com/problems/middle-of-the-linked-list/)
+- Pattern: Fast/Slow Pointer (Tortoise and Hare)
+- Difficulty: Easy
+- Time: 10 minutes
+- Approach: Fast pointer (2 steps), slow pointer (1 step). When fast reaches end, slow is at middle.
+
+### 3. Linked List Cycle
+**LeetCode 141** - [Link](https://leetcode.com/problems/linked-list-cycle/)
+- Pattern: Fast/Slow Pointer (Floyd's Cycle Detection)
+- Difficulty: Easy
+- Time: 12 minutes
+- Approach: Fast/slow pointers. If they meet → cycle exists.
+
 ---
 
-## Why Today Was Different
+## New Pattern Unlocked: Fast/Slow Pointer ✅
 
-**Instead of:** Rushing to solve 3-4 problems without understanding  
-**Did:** Learned the data structure deeply first
+**Also called:** Tortoise and Hare algorithm
 
-**Result:** Foundation solid. Tomorrow's linked list problems will be easier.
+**How it works:**
+- Two pointers traverse at different speeds
+- Fast: 2 steps per iteration
+- Slow: 1 step per iteration
+
+**Use cases:**
+- Finding middle of linked list
+- Detecting cycles
+- Finding cycle start point
+- Checking palindrome linked list
+
+**Why it works:**
+- If there's a cycle, fast pointer eventually catches slow pointer
+- If no cycle, fast pointer reaches end
+- For middle: when fast reaches end, slow is at middle
+
+---
+
+## Pattern Toolkit Update
+
+- ✅ Two Pointer
+- ✅ Frequency Array
+- ✅ XOR
+- ✅ HashMap
+- ✅ Sliding Window
+- ✅ **Fast/Slow Pointer** (NEW!)
 
 ---
 
@@ -62,22 +101,28 @@ Not a LeetCode grinding day. A learning day.
 
 | Metric | Count |
 |--------|-------|
-| Problems solved | 1 (streak) |
-| Total problems | ~42 |
-| Concepts learned | Linked list fundamentals |
+| Problems solved | 3 |
+| Total problems | ~44 |
+| New pattern learned | Fast/Slow Pointer |
+| Time invested | ~42 mins (problems) + 3-4 hours (learning) |
 | Day | 15/180 |
 | Week | 3 |
 
 ---
 
-## Tomorrow's Plan
+## Why Today Worked
 
-Apply today's learning:
-- 3-4 linked list problems
-- Now that fundamentals are clear, speed should improve
+**Learn fundamentals first → Apply immediately**
+
+Result:
+- Reverse Linked List: 20 mins (foundation problem)
+- Middle of Linked List: 10 mins (pattern applied)
+- Linked List Cycle: 12 mins (pattern mastered)
+
+Speed improved because foundation was solid.
 
 ---
 
 **Day 15/180 ✅**
 
-*Sometimes slowing down to learn speeds you up later.*
+*Foundation days lead to speed days.*
