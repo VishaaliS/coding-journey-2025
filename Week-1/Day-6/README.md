@@ -1,6 +1,6 @@
 # Day 6 - Rest Day + Streak Maintenance
 
-**Date:** June 29, 2025 (Sunday)
+**Date:** June 29, 2026 (Sunday)
 
 ## DSA (Streak Maintenance)
 
