@@ -1,6 +1,6 @@
 # Day 18 - Stack Mastery Through Practice
 
-**Date:** July 10, 2025  
+**Date:** July 10, 2026  
 **Focus:** Stack data structure - implementation and problem-solving
 
 ## What I Learned
