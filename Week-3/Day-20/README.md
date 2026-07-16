@@ -1,6 +1,6 @@
 # Day 20 - Hackathon: ODO 8-Hour Sprint
 
-**Date:** July 12, 2025 (Sunday)  
+**Date:** July 12, 2026 (Sunday)  
 **Focus:** ODO Hackathon participation + LeetCode streak maintenance
 
 ## ODO Hackathon - 8 Hours (8:30 AM - 5:30 PM)
