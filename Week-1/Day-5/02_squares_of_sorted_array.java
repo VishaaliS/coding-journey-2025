@@ -4,7 +4,7 @@
 // Pattern: Two Pointer (from both ends)
 // Time Complexity: O(n)
 // Space Complexity: O(1) excluding output
-// Date: June 27, 2025
+// Date: June 27, 2026
 //
 // KEY INSIGHT:
 // Largest squares are at BOTH ends (negative² = large, positive² = large)

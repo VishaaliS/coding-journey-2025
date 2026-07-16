@@ -4,7 +4,7 @@
 // Pattern: Traversal + Skip Nodes
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Date: July 8, 2025
+// Date: July 8, 2026
 //
 // APPROACH:
 // Traverse the list

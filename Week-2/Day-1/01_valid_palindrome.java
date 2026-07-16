@@ -4,7 +4,7 @@
 // Pattern: Two Pointer
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Date: June 30, 2025
+// Date: June 30, 2026
 //
 // APPROACH:
 // Two pointers from both ends

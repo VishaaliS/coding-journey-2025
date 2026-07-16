@@ -4,7 +4,7 @@
 // Pattern: Math Formula (or XOR)
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Date: June 24, 2025
+// Date: June 24, 2026
 
 class Solution {
     public int missingNumber(int[] nums) {

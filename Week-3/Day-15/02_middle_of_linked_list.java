@@ -4,7 +4,7 @@
 // Pattern: Fast/Slow Pointer (Tortoise and Hare)
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Date: July 7, 2025
+// Date: July 7, 2026
 //
 // APPROACH:
 // Fast pointer moves 2 steps

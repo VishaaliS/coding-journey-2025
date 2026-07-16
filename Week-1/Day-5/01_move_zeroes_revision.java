@@ -4,7 +4,7 @@
 // Pattern: Two Pointer
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Date: June 27, 2025
+// Date: June 27, 2026
 //
 // Day 1: First time solving - 10 mins
 // Day 5: Revision - 10 mins (pattern locked in!)

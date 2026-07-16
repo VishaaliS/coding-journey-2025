@@ -4,7 +4,7 @@
 // Pattern: Two Pointer with Gap
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Date: July 8, 2025
+// Date: July 8, 2026
 //
 // APPROACH:
 // Use dummy node (handles edge case of removing head)

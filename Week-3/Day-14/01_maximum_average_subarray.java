@@ -4,7 +4,7 @@
 // Pattern: Sliding Window (Fixed Size K)
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Date: July 6, 2025
+// Date: July 6, 2026
 //
 // APPROACH:
 // Fixed window size K

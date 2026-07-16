@@ -4,7 +4,7 @@
 // Pattern: XOR Bit Manipulation
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Date: June 25, 2025
+// Date: June 25, 2026
 //
 // WHY XOR OVER MATH FORMULA:
 // Math formula n*(n+1)/2 can overflow with large numbers

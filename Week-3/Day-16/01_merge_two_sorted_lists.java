@@ -4,7 +4,7 @@
 // Pattern: Dummy Node + Two Pointer
 // Time Complexity: O(n+m)
 // Space Complexity: O(1)
-// Date: July 8, 2025
+// Date: July 8, 2026
 //
 // APPROACH:
 // Create dummy node

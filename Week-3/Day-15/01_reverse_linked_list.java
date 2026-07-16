@@ -4,7 +4,7 @@
 // Pattern: Pointer Manipulation
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Date: July 7, 2025
+// Date: July 7, 2026
 //
 // APPROACH:
 // Three pointers: prev, current, next

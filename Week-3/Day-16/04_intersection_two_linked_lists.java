@@ -4,7 +4,7 @@
 // Pattern: Two Pointer (Switch Lists)
 // Time Complexity: O(n+m)
 // Space Complexity: O(1)
-// Date: July 8, 2025
+// Date: July 8, 2026
 //
 // APPROACH:
 // Two pointers traverse both lists

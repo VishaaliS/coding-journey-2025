@@ -4,7 +4,7 @@
 // Pattern: String Comparison
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Date: July 3, 2025
+// Date: July 3, 2026
 //
 // APPROACH:
 // Check if exactly one swap makes strings equal

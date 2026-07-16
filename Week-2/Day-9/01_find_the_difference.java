@@ -6,7 +6,7 @@
 // Pattern: XOR Bit Manipulation
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Date: July 2, 2025
+// Date: July 2, 2026
 //
 // APPROACH:
 // XOR all characters in both strings

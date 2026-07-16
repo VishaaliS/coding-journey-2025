@@ -4,7 +4,7 @@
 // Pattern: Stack (or Two Pointer from end)
 // Time Complexity: O(n+m)
 // Space Complexity: O(n+m)
-// Date: July 10, 2025
+// Date: July 10, 2026
 //
 // APPROACH:
 // Use stack to build final strings

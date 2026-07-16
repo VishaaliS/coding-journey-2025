@@ -4,7 +4,7 @@
 // Pattern: Two Stacks (Simulate Queue)
 // Time Complexity: O(1) amortized
 // Space Complexity: O(n)
-// Date: July 11, 2025
+// Date: July 11, 2026
 //
 // APPROACH:
 // Use two stacks to simulate FIFO behavior

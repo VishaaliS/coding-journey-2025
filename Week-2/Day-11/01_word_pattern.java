@@ -4,7 +4,7 @@
 // Pattern: Frequency Array / HashMap (Character to Word mapping)
 // Time Complexity: O(n)
 // Space Complexity: O(1) for pattern, O(n) for words
-// Date: July 4, 2025
+// Date: July 4, 2026
 //
 // APPROACH:
 // Map pattern characters to words

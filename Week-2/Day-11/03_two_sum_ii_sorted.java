@@ -4,7 +4,7 @@
 // Pattern: Two Pointer (Sorted Array Optimization)
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Date: July 4, 2025
+// Date: July 4, 2026
 //
 // APPROACH:
 // Sorted array enables O(n) two-pointer (not HashMap)

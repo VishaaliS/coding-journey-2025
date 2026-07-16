@@ -6,7 +6,7 @@
 // Pattern: Frequency Array
 // Time Complexity: O(n+m)
 // Space Complexity: O(1)
-// Date: July 2, 2025
+// Date: July 2, 2026
 //
 // APPROACH:
 // Count frequency of available characters
