@@ -1,6 +1,6 @@
 # Day 15 - Linked List Foundations & Fast/Slow Pointer Pattern
 
-**Date:** July 7, 2025  
+**Date:** July 7, 2026  
 **Focus:** Linked list fundamentals + fast/slow pointer technique
 
 ## Today's Approach: Learn, Then Apply
