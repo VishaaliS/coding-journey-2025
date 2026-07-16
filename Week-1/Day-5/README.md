@@ -1,6 +1,6 @@
 # Day 5 - Pattern Lock-In & Course Begins
 
-**Date:** June 27, 2025  
+**Date:** June 27, 2026  
 **Focus:** Two Pointer mastery + Starting Harkirat's Full Stack Course  
 
 ## What I Did Today
