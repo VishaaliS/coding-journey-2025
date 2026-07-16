@@ -1,6 +1,6 @@
 # Day 7 - String Fundamentals & Two Pointer Returns
 
-**Date:** June 30, 2025  
+**Date:** June 30, 2026  
 **Focus:** String manipulation basics, two-pointer on strings, frequency arrays  
 
 ## The Real Talk About Today
