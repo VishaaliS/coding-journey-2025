@@ -1,6 +1,6 @@
 # Day 4 - The Hardest Day Yet (Prefix Sum Deep Dive)
 
-**Date:** June 26, 2025  
+**Date:** June 26, 2026  
 **Focus:** Subarray Sum problems (struggled hard but broke through!)  
 
 ## 🔥 What Actually Happened Today
