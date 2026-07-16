@@ -1,6 +1,6 @@
 # Day 14 - Sliding Window Mastery
 
-**Date:** July 6, 2025 
+**Date:** July 6, 2026 
 **Focus:** Sliding window pattern (fixed and variable windows)
 
 ## Problems Solved: 4
