@@ -1,6 +1,6 @@
 # Day 1 - Arrays Basics & Two Pointer
 
-**Date:** June 23, 2025  
+**Date:** June 23, 2026  
 **Focus:** Introduction to arrays, two-pointer technique  
 
 ## Problems Solved
