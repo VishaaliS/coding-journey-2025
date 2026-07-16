@@ -1,6 +1,6 @@
 # Day 2 - Arrays Advanced & Multiple Algorithms
 
-**Date:** June 24, 2025  
+**Date:** June 24, 2026  
 **Focus:** Rotation, Kadane's Algorithm, Boyer-Moore Voting, Merge Arrays  
 
 ## Problems Solved
