@@ -1,6 +1,6 @@
 # Day 3 - Optimization, XOR & Index Marking Algorithm
 
-**Date:** June 25, 2025  
+**Date:** June 25, 2026  
 **Focus:** Optimizing previous solutions, learning Index Marking technique  
 
 ## What I Did Today
