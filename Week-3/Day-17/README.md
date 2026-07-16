@@ -1,6 +1,6 @@
 # Day 17 - Stack Fundamentals & Applications
 
-**Date:** July 9, 2025  
+**Date:** July 9, 2026
 **Focus:** Stack data structure - implementation and problem-solving
 
 ## What I Learned
