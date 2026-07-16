@@ -1,6 +1,6 @@
 # Day 21 - College Timetable Registration (Stressful Day)
 
-**Date:** July 13, 2025 (Monday)  
+**Date:** July 13, 2026 (Monday)  
 **Focus:** College timetable selection + LeetCode streak maintenance
 
 ## What Happened Today
