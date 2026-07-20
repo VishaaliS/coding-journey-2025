@@ -1,6 +1,6 @@
-# Days 18-20 - College Adaptation & Recursion Introduction
+# Days 24,25 - College Adaptation & Recursion Introduction
 
-**Dates:** July 18-20, 2026 (Friday-Sunday)  
+**Dates:** July 18,19, 2026 (Friday-Sunday)  
 **Focus:** Starting recursion + adapting to college schedule
 
 ## Reality Check: College Started
@@ -62,31 +62,7 @@ Watched videos. Learned concepts:
 
 ---
 
-## Day 20 (July 20) - Recursion on Familiar Problems
-
-**Focus:** Recursive approach to problems I already solved iteratively
-
-### Problems Solved: 2
-
-#### 3. Reverse String (Recursive Approach)
-**LeetCode 344** - [Link](https://leetcode.com/problems/reverse-string/)
-- Pattern: Recursion (swap + recurse)
-- Difficulty: Easy
-- Time: 45 minutes
-- Approach: Swap first and last. Recurse on middle portion.
-- Note: Already solved with two pointers before. This time using recursion.
-
-#### 4. Reverse Linked List (Recursive Approach)
-**LeetCode 206** - [Link](https://leetcode.com/problems/reverse-linked-list/)
-- Pattern: Recursion on linked list
-- Difficulty: Easy
-- Time: 1 hour 20 minutes
-- Approach: Reverse rest of list first. Then fix current node's next pointer.
-- Note: Previously solved iteratively. Recursion is harder to visualize.
-
----
-
-## Stats (Days 18-20 Combined)
+## Stats (Days 24,25 Combined)
 
 | Metric | Count |
 |--------|-------|
@@ -94,7 +70,7 @@ Watched videos. Learned concepts:
 | Problems solved | 4 (0 + 2 + 2) |
 | Total time | ~4 hours |
 | Total problems overall | ~66 |
-| Days | 18-20/180 |
+| Days | 24,25/180 |
 | Week | 4 |
 
 ---
@@ -137,6 +113,6 @@ Recursion continues. College continues. Journey continues.
 
 ---
 
-**Days 18-20/180 ✅**
+**Days 24,25/180 ✅**
 
 *Not perfect. Not giving up. Just adapting.*
