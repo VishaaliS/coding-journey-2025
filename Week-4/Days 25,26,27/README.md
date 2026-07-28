@@ -1,6 +1,6 @@
-# Days 24,25 - College Adaptation & Recursion Introduction
+# Days 25,26,27 - College Adaptation & Recursion Introduction
 
-**Dates:** July 18,19, 2026 (Friday-Sunday)  
+**Dates:** July 17-19, 2026 (Friday-Sunday)  
 **Focus:** Starting recursion + adapting to college schedule
 
 ## Reality Check: College Started
@@ -70,7 +70,7 @@ Watched videos. Learned concepts:
 | Problems solved | 4 (0 + 2 + 2) |
 | Total time | ~4 hours |
 | Total problems overall | ~66 |
-| Days | 24,25/180 |
+| Days | 25,26,27/180 |
 | Week | 4 |
 
 ---
@@ -95,7 +95,7 @@ Still trying to:
 
 Finding time for consistent practice while labs start, observations begin, and semester sets pace is hard.
 
-**Guilt about missing posts on Day 18-19.**
+**Guilt about missing posts on Day 17-19.**
 
 But I didn't miss solving problems. Just missed posting immediately.
 
@@ -113,6 +113,6 @@ Recursion continues. College continues. Journey continues.
 
 ---
 
-**Days 24,25/180 ✅**
+**Days 25,26,27/180 ✅**
 
 *Not perfect. Not giving up. Just adapting.*
