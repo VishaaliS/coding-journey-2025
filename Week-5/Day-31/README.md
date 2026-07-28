@@ -1,7 +1,7 @@
-# Day 30 - PEC Hacks Application Submitted
+# Day 31 - PEC Hacks Application Submitted
 
 **Date:** July 23, 2026 (Thursday)  
-**Day:** 30/180  
+**Day:** 31/180  
 **Week:** 5
 
 ## Application Complete ✅
@@ -54,7 +54,7 @@ Affects treatment decisions, insurance, employment, and patient identity.
 ### 4. Submitted Application
 
 **Deadline:** August 2026  
-**Days until hackathon (from Day 33):** 39 days
+**Days until hackathon (from Day 34):** 38 days
 
 ---
 
@@ -96,11 +96,11 @@ Tomorrow: Resume recursion practice.
 |--------|-------|
 | DSA problems | 0 (hackathon prep) |
 | Total problems | ~67 |
-| Day | 30/180 |
+| Day | 31/180 |
 | Week | 5 |
 
 ---
 
-**Day 30/180 ✅**
+**Day 31/180 ✅**
 
 *Career work complete. DSA resumes tomorrow.*
