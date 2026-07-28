@@ -1,6 +1,6 @@
 # Day 30 - PEC Hacks Application Submitted
 
-**Date:** July 24, 2026 (Thursday)  
+**Date:** July 23, 2026 (Thursday)  
 **Day:** 30/180  
 **Week:** 5
 
