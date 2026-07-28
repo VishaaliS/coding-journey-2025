@@ -1,9 +1,9 @@
-# Day 26 - Recursion on Familiar Problems
+# Day 27 - Recursion on Familiar Problems
 
 **Date:** July 20, 2026 (Monday)  
 **Focus:** Recursive approach to problems already solved iteratively  
 **Week:** 5  
-**Day:** 26/180
+**Day:** 27/180
 
 ## Adapting to College + Coding
 
@@ -62,7 +62,7 @@ Today focused on applying recursion to problems I've already solved with iterati
 | Problems solved | 2 |
 | Total problems | ~66 |
 | Total time today | ~2 hours |
-| Day | 26/180 |
+| Day | 27/180 |
 | Week | 5 |
 
 ---
@@ -82,6 +82,6 @@ College exhaustion continues. But showing up anyway.
 
 ---
 
-**Day 26/180 ✅**
+**Day 27/180 ✅**
 
 *Week 5 begins. Recursion continues. Adapting to new normal.*
