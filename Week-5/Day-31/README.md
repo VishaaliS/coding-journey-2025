@@ -1,7 +1,7 @@
-# Day 30 - PEC Hacks Ideation
+# Day 31 - PEC Hacks Ideation
 
 **Date:** July 22, 2026 (Wednesday)  
-**Day:** 30/180  
+**Day:** 31/180  
 **Week:** 5
 
 ## Hackathon Application Research
@@ -93,11 +93,11 @@ Develop pitch deck and submit application.
 |--------|-------|
 | DSA problems | 0 (hackathon prep) |
 | Total problems | ~67 |
-| Day | 30/180 |
+| Day | 31/180 |
 | Week | 5 |
 
 ---
 
-**Day 30/180 ✅**
+**Day 31/180 ✅**
 
 *Product ideation = valid career skill.*
