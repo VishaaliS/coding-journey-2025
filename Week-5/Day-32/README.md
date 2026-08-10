@@ -1,7 +1,7 @@
-# Day 31 - PEC Hacks Application Submitted
+# Day 32 - PEC Hacks Application Submitted
 
 **Date:** July 23, 2026 (Thursday)  
-**Day:** 31/180  
+**Day:** 32/180  
 **Week:** 5
 
 ## Application Complete ✅
@@ -96,11 +96,11 @@ Tomorrow: Resume recursion practice.
 |--------|-------|
 | DSA problems | 0 (hackathon prep) |
 | Total problems | ~67 |
-| Day | 31/180 |
+| Day | 32/180 |
 | Week | 5 |
 
 ---
 
-**Day 31/180 ✅**
+**Day 32/180 ✅**
 
 *Career work complete. DSA resumes tomorrow.*
