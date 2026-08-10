@@ -1,7 +1,7 @@
-# Day 32 - Recursion Restart (Failed Attempt)
+# Day 33 - Recursion Restart (Failed Attempt)
 
 **Date:** July 24, 2026 (Friday)  
-**Day:** 32/180  
+**Day:** 33/180  
 **Week:** 6
 
 ## Back to DSA After 4-Day Career Sprint
@@ -103,11 +103,11 @@ Rest day. Watch more recursion videos. Reflect on approach.
 | Videos watched | 1 |
 | Understanding | 50-60% |
 | Total problems | ~67 |
-| Day | 32/180 |
+| Day | 33/180 |
 | Week | 6 |
 
 ---
 
-**Day 32/180 ✅**
+**Day 33/180 ✅**
 
 *Failed attempt = learning moment. Not quitting.*
