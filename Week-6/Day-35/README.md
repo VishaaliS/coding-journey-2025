@@ -1,7 +1,7 @@
-# Day 35 - Recursion Reset with Understanding
+# Day 36 - Recursion Reset with Understanding
 
 **Date:** July 27, 2026 (Monday)  
-**Day:** 35/180  
+**Day:** 36/180  
 **Week:** 6
 
 ## Week 6 Officially Starts
@@ -112,7 +112,7 @@ Can I explain WHY the recursion works, not just recite the code?
 | Problems worked | 1 (reworked) |
 | Understanding | 60% (improving) |
 | Total problems | ~67 |
-| Day | 35/180 |
+| Day | 36/180 |
 | Week | 6 (officially started) |
 
 ---
@@ -133,6 +133,6 @@ Build foundation properly.
 
 ---
 
-**Day 35/180 ✅**
+**Day 36/180 ✅**
 
 *Understanding > memorization. Week 6 ready.*
