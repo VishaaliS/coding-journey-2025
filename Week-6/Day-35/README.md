@@ -1,7 +1,7 @@
 # Day 35 - Recursion Reset with Understanding
 
-**Date:** July 2, 2026 (Sunday)  
-**Day:** 33/180  
+**Date:** July 27, 2026 (Monday)  
+**Day:** 35/180  
 **Week:** 6
 
 ## Week 6 Officially Starts
@@ -65,8 +65,8 @@ Drawing the linked list + call stack on paper = clarity.
 
 ### 2. Ask WHY, Not Just HOW
 
-**Day 31:** Tried to memorize HOW the code works.  
-**Day 33:** Asked WHY each step is needed.
+**Day 33:** Tried to memorize HOW the code works.  
+**Day 35:** Asked WHY each step is needed.
 
 Understanding improved.
 
@@ -100,7 +100,7 @@ Can I explain WHY the recursion works, not just recite the code?
 
 ## Restarted GitHub Streak
 
-**After:** Days 27-30 (career work), Days 31-32 (struggle + rest)  
+**After:** Days 28-31 (career work), Days 32-34 (struggle + rest)  
 **Today:** Back on track with documented learning
 
 ---
@@ -112,17 +112,17 @@ Can I explain WHY the recursion works, not just recite the code?
 | Problems worked | 1 (reworked) |
 | Understanding | 60% (improving) |
 | Total problems | ~67 |
-| Day | 33/180 |
+| Day | 35/180 |
 | Week | 6 (officially started) |
 
 ---
 
 ## Reflection
 
-**Week 5:** Only Day 26 completed (rest was career work)  
-**Days 27-30:** Valid career-building (internship + hackathon)  
-**Days 31-32:** Struggle + recovery  
-**Day 33:** Reset with proper approach
+**Week 5:** Only Day 28 completed (rest was career work)  
+**Days 28-32:** Valid career-building (internship + hackathon)  
+**Days 33-34:** Struggle + recovery  
+**Day 35:** Reset with proper approach
 
 **Not perfect. But not quitting.**
 
@@ -133,6 +133,6 @@ Build foundation properly.
 
 ---
 
-**Day 33/180 ✅**
+**Day 35/180 ✅**
 
 *Understanding > memorization. Week 6 ready.*
