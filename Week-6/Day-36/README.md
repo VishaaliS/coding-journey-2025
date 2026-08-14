@@ -83,11 +83,7 @@ Can't master linked list recursion without mastering basic recursion.
 
 ---
 
-## Week 6 Plan (Starting Tomorrow)
-
-### Monday-Friday: Recursion Deep Dive
-
-**Monday:** Fibonacci, Power of N  
+## Week 6 Plan 
 **Tuesday:** Climbing Stairs, Sum of Digits  
 **Wednesday:** Reverse String (recursive), Palindrome  
 **Thursday:** Reverse Linked List (revisit with stronger foundation)  
