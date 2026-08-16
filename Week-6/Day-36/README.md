@@ -117,8 +117,8 @@ Can I explain WHY the recursion works, not just recite the code?
 
 **Week 5:** Only Day 28 completed (rest was career work)  
 **Days 28-32:** Valid career-building (internship + hackathon)  
-**Days 33-34:** Struggle + recovery  
-**Day 35:** Reset with proper approach
+**Days 33-35:** Struggle + recovery  
+**Day 36:** Reset with proper approach
 
 **Not perfect. But not quitting.**
 
