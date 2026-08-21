@@ -1,7 +1,7 @@
 # Day 36 - Recursion Reset with Understanding
 
 **Date:** July 27, 2026 (Monday)  
-**Day:** 36/180  
+**Day:** 36/180
 **Week:** 6
 
 ## Week 6 Officially Starts
